@@ -1,0 +1,4 @@
+main-project/node_modules/
+.DS_Store
+.idea/
+main-project/.DS_Store

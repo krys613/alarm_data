@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-12-19">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="modularity class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="25" label="ATMP">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-17.955585" y="-216.87119"></viz:position>
+      </node>
+      <node id="26" label="ZZA170000SFZLWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="97.71429"></viz:size>
+        <viz:position x="278.44785" y="-172.96931"></viz:position>
+      </node>
+      <node id="27" label="ZZA170000YQDZ1">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="95.42857"></viz:size>
+        <viz:position x="258.36383" y="144.86214"></viz:position>
+      </node>
+      <node id="28" label="ZZD000017SJYHDBA">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="93.14286"></viz:size>
+        <viz:position x="2.7231903" y="30.309338"></viz:position>
+      </node>
+      <node id="8" label="CUPP来账">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="81.71429"></viz:size>
+        <viz:position x="-658.5888" y="267.24753"></viz:position>
+      </node>
+      <node id="16" label="手机银行APP">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="77.14286"></viz:size>
+        <viz:position x="-884.29065" y="206.375"></viz:position>
+      </node>
+      <node id="29" label="10.192.31.25">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="74.85715"></viz:size>
+        <viz:position x="-560.6402" y="41.47112"></viz:position>
+      </node>
+      <node id="17" label="银企接入">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="65.71429"></viz:size>
+        <viz:position x="-782.70215" y="-21.62085"></viz:position>
+      </node>
+      <node id="21" label="zhyhdbp_per">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="29.142857"></viz:size>
+        <viz:position x="-418.18976" y="90.48613"></viz:position>
+      </node>
+      <node id="3" label="ZZA170000WYHLA">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.857143"></viz:size>
+        <viz:position x="-433.16214" y="-30.014284"></viz:position>
+      </node>
+      <node id="4" label="IVS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.857143"></viz:size>
+        <viz:position x="-480.11658" y="-77.93116"></viz:position>
+      </node>
+      <node id="12" label="ZZA170000JGBS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="26.857143"></viz:size>
+        <viz:position x="335.72702" y="-813.4306"></viz:position>
+      </node>
+      <node id="35" label="手机银行WEB">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="26.857143"></viz:size>
+        <viz:position x="210.40685" y="-879.13403"></viz:position>
+      </node>
+      <node id="13" label="VTMS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="24.571428"></viz:size>
+        <viz:position x="392.47525" y="-789.5593"></viz:position>
+      </node>
+      <node id="15" label="WMS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="24.571428"></viz:size>
+        <viz:position x="274.7272" y="-841.52026"></viz:position>
+      </node>
+      <node id="22" label="MIS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="24.571428"></viz:size>
+        <viz:position x="-352.44867" y="114.14693"></viz:position>
+      </node>
+      <node id="5" label="生产NFTS">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="907.77216" y="344.19864"></viz:position>
+      </node>
+      <node id="6" label="ZZA170000HDFS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="925.7706" y="295.1512"></viz:position>
+      </node>
+      <node id="9" label="ZZA170000SFGLDBP">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="-573.5716" y="374.53714"></viz:position>
+      </node>
+      <node id="23" label="银银平台">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="633.672" y="694.7121"></viz:position>
+      </node>
+      <node id="24" label="ZZD170000ZNHLP">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="590.27527" y="723.8023"></viz:position>
+      </node>
+      <node id="31" label="ZZD000018SJYHDBA">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.285715"></viz:size>
+        <viz:position x="153.65234" y="-252.07954"></viz:position>
+      </node>
+      <node id="1" label="ZZA170000YJBZHDB">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-839.2707" y="-103.840965"></viz:position>
+      </node>
+      <node id="2" label="tws1per">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-461.57422" y="-131.6292"></viz:position>
+      </node>
+      <node id="7" label="ZZA000017CRMDB">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-748.4517" y="-115.26113"></viz:position>
+      </node>
+      <node id="10" label="ECIF">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-501.4442" y="134.06633"></viz:position>
+      </node>
+      <node id="11" label="huipiaorenhang">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="441.2913" y="-768.7613"></viz:position>
+      </node>
+      <node id="14" label="WM">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="165.69499" y="-913.75336"></viz:position>
+      </node>
+      <node id="18" label="银企应用">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="269.18262" y="811.8142"></viz:position>
+      </node>
+      <node id="19" label="ZZA000017JXKH">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="168.57689" y="-841.07947"></viz:position>
+      </node>
+      <node id="20" label="ZZD170000SJZXETL1">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="237.93526" y="-928.42676"></viz:position>
+      </node>
+      <node id="30" label="ZZA170001SFZLWS">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-39.648262" y="-374.57254"></viz:position>
+      </node>
+      <node id="32" label="ZZA170000YQDZ2">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-106.12562" y="-330.5517"></viz:position>
+      </node>
+      <node id="33" label="ZZA170000YQDZ3">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-95.17684" y="127.28968"></viz:position>
+      </node>
+      <node id="34" label="ZZD000019SJYHDBA">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-160.52956" y="-224.76619"></viz:position>
+      </node>
+      <node id="36" label="XKFDB2_per">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="289.3445" y="853.0552"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1" target="17"></edge>
+      <edge id="1" source="2" target="4"></edge>
+      <edge id="2" source="3" target="29"></edge>
+      <edge id="3" source="3" target="4"></edge>
+      <edge id="4" source="4" target="29"></edge>
+      <edge id="5" source="5" target="6"></edge>
+      <edge id="6" source="6" target="5"></edge>
+      <edge id="7" source="7" target="17"></edge>
+      <edge id="8" source="8" target="9"></edge>
+      <edge id="9" source="9" target="8"></edge>
+      <edge id="10" source="10" target="29"></edge>
+      <edge id="11" source="11" target="13"></edge>
+      <edge id="12" source="12" target="13"></edge>
+      <edge id="13" source="13" target="12"></edge>
+      <edge id="14" source="14" target="35"></edge>
+      <edge id="15" source="15" target="12"></edge>
+      <edge id="16" source="8" target="29"></edge>
+      <edge id="17" source="16" target="29"></edge>
+      <edge id="18" source="8" target="16"></edge>
+      <edge id="19" source="16" target="8"></edge>
+      <edge id="20" source="17" target="29"></edge>
+      <edge id="21" source="8" target="17"></edge>
+      <edge id="22" source="16" target="17"></edge>
+      <edge id="23" source="18" target="36"></edge>
+      <edge id="24" source="19" target="35"></edge>
+      <edge id="25" source="20" target="35"></edge>
+      <edge id="26" source="21" target="29"></edge>
+      <edge id="27" source="22" target="21"></edge>
+      <edge id="28" source="21" target="22"></edge>
+      <edge id="29" source="23" target="24"></edge>
+      <edge id="30" source="24" target="23"></edge>
+      <edge id="31" source="25" target="26"></edge>
+      <edge id="32" source="26" target="25"></edge>
+      <edge id="33" source="25" target="27"></edge>
+      <edge id="34" source="27" target="25"></edge>
+      <edge id="35" source="26" target="27"></edge>
+      <edge id="36" source="27" target="26"></edge>
+      <edge id="37" source="25" target="28"></edge>
+      <edge id="38" source="28" target="25"></edge>
+      <edge id="39" source="26" target="28"></edge>
+      <edge id="40" source="28" target="26"></edge>
+      <edge id="41" source="28" target="27"></edge>
+      <edge id="42" source="27" target="28"></edge>
+      <edge id="43" source="3" target="29" weight="0.5"></edge>
+      <edge id="44" source="3" target="4" weight="0.5"></edge>
+      <edge id="45" source="15" target="35" weight="0.5"></edge>
+      <edge id="46" source="15" target="12" weight="0.5"></edge>
+      <edge id="47" source="8" target="16" weight="0.5"></edge>
+      <edge id="48" source="8" target="17" weight="0.5"></edge>
+      <edge id="49" source="16" target="17" weight="0.5"></edge>
+      <edge id="50" source="16" target="8" weight="0.5"></edge>
+      <edge id="51" source="16" target="29" weight="0.5"></edge>
+      <edge id="52" source="16" target="17" weight="0.5"></edge>
+      <edge id="53" source="8" target="16" weight="0.5"></edge>
+      <edge id="54" source="8" target="29" weight="0.5"></edge>
+      <edge id="55" source="16" target="29" weight="0.5"></edge>
+      <edge id="56" source="16" target="8" weight="0.5"></edge>
+      <edge id="57" source="8" target="29" weight="0.5"></edge>
+      <edge id="58" source="8" target="17" weight="0.5"></edge>
+      <edge id="59" source="21" target="22" weight="0.5"></edge>
+      <edge id="60" source="21" target="29" weight="0.5"></edge>
+      <edge id="61" source="25" target="28" weight="0.5"></edge>
+      <edge id="62" source="25" target="26" weight="0.5"></edge>
+      <edge id="63" source="26" target="28" weight="0.5"></edge>
+      <edge id="64" source="26" target="25" weight="0.5"></edge>
+      <edge id="65" source="28" target="26" weight="0.5"></edge>
+      <edge id="66" source="28" target="25" weight="0.5"></edge>
+      <edge id="67" source="28" target="27" weight="0.5"></edge>
+      <edge id="68" source="28" target="26" weight="0.5"></edge>
+      <edge id="69" source="26" target="27" weight="0.5"></edge>
+      <edge id="70" source="26" target="28" weight="0.5"></edge>
+      <edge id="71" source="27" target="26" weight="0.5"></edge>
+      <edge id="72" source="27" target="28" weight="0.5"></edge>
+      <edge id="73" source="28" target="27" weight="0.5"></edge>
+      <edge id="74" source="28" target="25" weight="0.5"></edge>
+      <edge id="75" source="25" target="28" weight="0.5"></edge>
+      <edge id="76" source="25" target="27" weight="0.5"></edge>
+      <edge id="77" source="27" target="28" weight="0.5"></edge>
+      <edge id="78" source="27" target="25" weight="0.5"></edge>
+      <edge id="79" source="25" target="27" weight="0.5"></edge>
+      <edge id="80" source="25" target="26" weight="0.5"></edge>
+      <edge id="81" source="26" target="27" weight="0.5"></edge>
+      <edge id="82" source="26" target="25" weight="0.5"></edge>
+      <edge id="83" source="27" target="26" weight="0.5"></edge>
+      <edge id="84" source="27" target="25" weight="0.5"></edge>
+      <edge id="85" source="17" target="16" weight="0.5"></edge>
+      <edge id="86" source="17" target="29" weight="0.5"></edge>
+      <edge id="87" source="8" target="16" weight="0.5"></edge>
+      <edge id="88" source="8" target="29" weight="0.5"></edge>
+      <edge id="89" source="29" target="16" weight="0.5"></edge>
+      <edge id="90" source="29" target="17" weight="0.5"></edge>
+      <edge id="91" source="8" target="16" weight="0.5"></edge>
+      <edge id="92" source="8" target="17" weight="0.5"></edge>
+      <edge id="93" source="16" target="29" weight="0.5"></edge>
+      <edge id="94" source="16" target="8" weight="0.5"></edge>
+      <edge id="95" source="17" target="29" weight="0.5"></edge>
+      <edge id="96" source="17" target="8" weight="0.5"></edge>
+      <edge id="97" source="16" target="29" weight="0.5"></edge>
+      <edge id="98" source="16" target="17" weight="0.5"></edge>
+      <edge id="99" source="8" target="29" weight="0.5"></edge>
+      <edge id="100" source="8" target="17" weight="0.5"></edge>
+      <edge id="101" source="16" target="17" weight="0.5"></edge>
+      <edge id="102" source="16" target="8" weight="0.5"></edge>
+      <edge id="103" source="29" target="17" weight="0.5"></edge>
+      <edge id="104" source="29" target="8" weight="0.5"></edge>
+      <edge id="105" source="8" target="16" weight="0.33000001311302185"></edge>
+      <edge id="106" source="8" target="29" weight="0.33000001311302185"></edge>
+      <edge id="107" source="8" target="17" weight="0.33000001311302185"></edge>
+      <edge id="108" source="16" target="29" weight="0.33000001311302185"></edge>
+      <edge id="109" source="16" target="17" weight="0.33000001311302185"></edge>
+      <edge id="110" source="16" target="8" weight="0.33000001311302185"></edge>
+      <edge id="111" source="27" target="26" weight="0.5"></edge>
+      <edge id="112" source="27" target="28" weight="0.5"></edge>
+      <edge id="113" source="25" target="26" weight="0.5"></edge>
+      <edge id="114" source="25" target="28" weight="0.5"></edge>
+      <edge id="115" source="28" target="27" weight="0.5"></edge>
+      <edge id="116" source="28" target="26" weight="0.5"></edge>
+      <edge id="117" source="25" target="27" weight="0.5"></edge>
+      <edge id="118" source="25" target="26" weight="0.5"></edge>
+      <edge id="119" source="27" target="26" weight="0.5"></edge>
+      <edge id="120" source="27" target="25" weight="0.5"></edge>
+      <edge id="121" source="28" target="26" weight="0.5"></edge>
+      <edge id="122" source="28" target="25" weight="0.5"></edge>
+      <edge id="123" source="26" target="27" weight="0.5"></edge>
+      <edge id="124" source="26" target="28" weight="0.5"></edge>
+      <edge id="125" source="25" target="27" weight="0.5"></edge>
+      <edge id="126" source="25" target="28" weight="0.5"></edge>
+      <edge id="127" source="27" target="28" weight="0.5"></edge>
+      <edge id="128" source="27" target="25" weight="0.5"></edge>
+      <edge id="129" source="26" target="28" weight="0.5"></edge>
+      <edge id="130" source="26" target="25" weight="0.5"></edge>
+      <edge id="131" source="26" target="27" weight="0.5"></edge>
+      <edge id="132" source="30" target="25" weight="0.5"></edge>
+      <edge id="133" source="28" target="27" weight="0.5"></edge>
+      <edge id="134" source="31" target="25" weight="0.5"></edge>
+      <edge id="135" source="27" target="26"></edge>
+      <edge id="136" source="32" target="25"></edge>
+      <edge id="137" source="33" target="28"></edge>
+      <edge id="138" source="25" target="27"></edge>
+      <edge id="139" source="25" target="26"></edge>
+      <edge id="140" source="25" target="28"></edge>
+      <edge id="141" source="28" target="27"></edge>
+      <edge id="142" source="31" target="26"></edge>
+      <edge id="143" source="34" target="25"></edge>
+      <edge id="144" source="26" target="27"></edge>
+      <edge id="145" source="26" target="28"></edge>
+      <edge id="146" source="26" target="25"></edge>
+    </edges>
+  </graph>
+</gexf>
